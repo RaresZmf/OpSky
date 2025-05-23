@@ -1,2 +1,0 @@
-# OpSky
- Avion modular autonom
